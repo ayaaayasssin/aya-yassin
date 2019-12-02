@@ -1,0 +1,81 @@
+.a
+{  width: 1300px;
+    height: 400px;
+    color: ivory;
+    text-transform: uppercase;
+    text-align: center;
+    background-image: url(img/ayayasin.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    line-height: 100px;
+    font-size: xx-large;
+}
+.f
+{text-transform: uppercase;
+ border-width: 9px;
+ border-color: black;
+}
+.b{ font-style: italic;
+    font-size: xx-large;
+    font-weight: 500;
+    text-align: center;
+}
+.c{font-weight: 900;font-size: xx-large;}
+.d
+{
+    width: 1300px;
+    height: 200px;
+    text-transform: uppercase;
+    text-align: center;
+    background: #ddd;
+    margin: 10px;
+    padding: 10px;
+    border: 10px solid #foo;
+
+}
+.da
+{
+    font-size: xx-large;
+    font-weight: 900px;
+}
+.cc{
+    float: left;
+    margin: 60px;
+    padding: 60px;
+}
+.ca{
+    margin: 60px;
+    padding: 60px;
+}
+.ma{
+    width: 600px; 
+    margin: 20px;
+    padding: 20px;
+    
+}
+.mb{
+    margin: 60px;
+    padding: 60px;
+    float: right;
+    
+}
+.ya{
+    float: left;
+    margin: 50px;
+    padding: 50px;
+}
+.yb{
+    margin: 60px;
+    padding: 60px;
+}
+.x{
+    text-align: center;
+    margin: 60px;
+    padding: 60px;
+
+}
+.n{
+    text-align: center;
+   padding: 60px;
+    background-color: tomato;
+}
