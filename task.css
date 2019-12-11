@@ -1,5 +1,5 @@
-.a
-{  width: 1300px;
+.first
+{ 
     height: 400px;
     color: ivory;
     text-transform: uppercase;
@@ -10,20 +10,14 @@
     line-height: 100px;
     font-size: xx-large;
 }
-.f
-{text-transform: uppercase;
- border-width: 9px;
- border-color: black;
-}
-.b{ font-style: italic;
+
+.pragraph one{ font-style: italic;
     font-size: xx-large;
-    font-weight: 500;
     text-align: center;
 }
-.c{font-weight: 900;font-size: xx-large;}
-.d
+
+.second
 {
-    width: 1300px;
     height: 200px;
     text-transform: uppercase;
     text-align: center;
@@ -33,49 +27,62 @@
     border: 10px solid #foo;
 
 }
-.da
+.wait
 {
     font-size: xx-large;
-    font-weight: 900px;
+    font-weight: 900;
 }
-.cc{
+.third{
+    width: 500px;
     float: left;
     margin: 60px;
     padding: 60px;
 }
-.ca{
+.fourth{
     margin: 60px;
     padding: 60px;
 }
-.ma{
+.sixth{
     width: 600px; 
     margin: 20px;
     padding: 20px;
     
 }
-.mb{
+.Fifth{
     margin: 60px;
     padding: 60px;
     float: right;
+    width: 400px;
     
 }
-.ya{
+.seventh{
+    width: 500;
     float: left;
-    margin: 50px;
-    padding: 50px;
+    margin: 60px;
+    padding: 60px;
+   
 }
-.yb{
+.eighth{
     margin: 60px;
     padding: 60px;
 }
-.x{
+.ninth{
     text-align: center;
     margin: 60px;
     padding: 60px;
 
 }
-.n{
+.tenth{
+    width: 300px;
+    text-align: center;
+    line-height: 20px;
+    float: left;
+    padding: 70px;
+}
+
+.Eleventh{
     text-align: center;
    padding: 60px;
-    background-color: tomato;
+    background-color: rgb(194, 65, 18);
 }
+
